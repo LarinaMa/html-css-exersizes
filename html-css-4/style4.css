@@ -1,0 +1,18 @@
+button {
+  box-sizing: border-box;
+  font-size: larger;
+  color: aliceblue;
+  padding: 16px 30px;
+  background-color: blue;
+  border: solid green 3px;
+}
+a {
+  color: purple;
+  font-size: large;
+  border: solid purple 3px;
+}
+h1 {
+  background-color: white;
+  border: solid orange 10px;
+  padding: 40px;
+}

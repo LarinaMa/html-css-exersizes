@@ -1,0 +1,13 @@
+/* Each link has a 20px margin on the right */
+
+a {
+  text-decoration: none;
+  font-size: large;
+  color: blue;
+  margin-right: 20px;
+}
+
+a:hover {
+  color: white;
+  background-color: blue;
+}

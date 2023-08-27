@@ -1,0 +1,21 @@
+<p>This is a paragraph</p>
+<span>A span wraps around a selected part of text or content</span>
+<img src="puppy1.png" alt="A smiling puppy in a field" />
+<b>This is bold text</b>
+<abbr title="the source attribute hods the image file name">src</abbr> adding a title attribute lets you provide an expansion or definition for the abbreviation or acronym
+
+
+
+A CSS Rule:
+- The `selector` references the html element
+- The `key` is the name of the style property
+- The `value` is the chosen setting of the property
+
+selector {
+    key: value
+}
+
+Style Properties:
+color: black;
+border: solid black 3px; (style, color, width)
+margin: 10px;
